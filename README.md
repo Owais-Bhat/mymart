@@ -181,13 +181,6 @@ npm start -- --clear
 - **Built with**: React Native, Expo, Redux Toolkit
 - **Design**: Custom modern UI
 
-## 📞 Need Help?
-
-If you're stuck or have questions:
-1. Check the REDUX_GUIDE.md for detailed explanations
-2. Check the EXPLANATION.md for code breakdowns
-3. Look at the code comments in the files
-
 ---
 
 **Happy Shopping! 🛍️✨**
